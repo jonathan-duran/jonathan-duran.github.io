@@ -68,11 +68,9 @@ const config: Config = {
           label: 'Projects',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Resume',
-          to: '/docs/Resume',
+          to: '/docs/resume',
         },
         {
           href: 'https://www.linkedin.com/in/jonathan-duran-605412186/',
